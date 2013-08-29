@@ -1,0 +1,21 @@
+{
+  "name": "canvas-console",
+  "version": "0.0.0",
+  "description": "Console for basic Canvas LMS tasks",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaronshaf/canvas-console.git"
+  },
+  "author": "Aaron Shafovaloff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronshaf/canvas-console/issues"
+  },
+  "dependencies": {
+    "inquirer": "~0.3.1",
+    "request": "~2.27.0",
+    "rsvp": "~2.0.2",
+    "cli-table": "~0.2.0"
+  }
+}
